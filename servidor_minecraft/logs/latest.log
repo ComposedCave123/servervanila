@@ -25,3 +25,13 @@
 [19:57:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1134, y=88, z=137} jd{x=1135, y=87, z=137}
 [19:58:27] [Server thread/INFO]: [Not Secure] <Gabofj> zzzzz
 [20:09:26] [Server thread/INFO]: [Not Secure] <BLimao> zzzzzzzzzzzzzzz
+[20:20:00] [Server thread/INFO]: Gabofj lost connection: Disconnected
+[20:20:00] [Server thread/INFO]: Gabofj left the game
+[20:20:07] [Server thread/INFO]: Gabofj[/127.212.39.67:50463] logged in with entity id 12407 at (938.2742198487571, 95.0, -1081.0103023540391)
+[20:20:07] [Server thread/INFO]: Gabofj joined the game
+[20:22:58] [Server thread/INFO]: BLimao has made the advancement [A Seedy Place]
+[20:33:12] [Server thread/INFO]: BLimao lost connection: You logged in from another location
+[20:33:12] [Server thread/INFO]: BLimao left the game
+[20:33:12] [Server thread/WARN]: handleDisconnection() called twice
+[20:33:14] [Server thread/INFO]: BLimao[/127.95.73.60:50963] logged in with entity id 17385 at (989.8956675785337, -13.0, 172.4916293113069)
+[20:33:14] [Server thread/INFO]: BLimao joined the game
