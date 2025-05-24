@@ -28,3 +28,7 @@
 [03:45:22] [Server thread/INFO]: [raulpro292: Set the time to 1000]
 [03:45:51] [Server thread/INFO]: Char[/127.71.10.249:51611] logged in with entity id 9056 at (1661.599047296951, 93.0, 253.9028728037873)
 [03:45:51] [Server thread/INFO]: Char joined the game
+[03:55:06] [Server thread/INFO]: [raulpro292: Set the time to 1000]
+[03:57:22] [Server thread/INFO]: Gabofj has made the advancement [Cover Me with Diamonds]
+[03:58:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=912, y=91, z=-1001} jd{x=911, y=92, z=-1001}
+[04:01:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=912, y=74, z=-1018} jd{x=910, y=74, z=-1019}
