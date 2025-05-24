@@ -32,3 +32,5 @@
 [03:57:22] [Server thread/INFO]: Gabofj has made the advancement [Cover Me with Diamonds]
 [03:58:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=912, y=91, z=-1001} jd{x=911, y=92, z=-1001}
 [04:01:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=912, y=74, z=-1018} jd{x=910, y=74, z=-1019}
+[04:08:20] [Server thread/INFO]: [raulpro292: Set the time to 1000]
+[04:16:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=909, y=74, z=-1020} jd{x=909, y=73, z=-1020}
