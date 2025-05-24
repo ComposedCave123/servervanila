@@ -394,6 +394,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-22 04:13:45 +0000",
+      "apple": "2025-05-23 21:59:23 +0000",
+      "chicken": "2025-05-23 22:01:38 +0000",
       "cooked_chicken": "2025-05-22 03:51:56 +0000",
       "rotten_flesh": "2025-05-22 03:49:11 +0000",
       "cooked_mutton": "2025-05-22 04:57:37 +0000",
@@ -1555,6 +1557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-23 21:56:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-23 21:42:54 +0000"
@@ -1624,6 +1632,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-23 21:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-23 21:56:00 +0000"
     },
     "done": true
   },
