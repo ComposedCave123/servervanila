@@ -7,16 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_ocean": "2025-05-23 03:53:17 +0000",
+      "minecraft:cold_ocean": "2025-05-24 05:17:09 +0000",
       "minecraft:snowy_slopes": "2025-05-23 03:55:50 +0000",
-      "minecraft:frozen_river": "2025-05-23 03:56:04 +0000",
       "minecraft:forest": "2025-05-23 04:19:13 +0000",
       "minecraft:taiga": "2025-05-24 04:57:04 +0000",
-      "minecraft:deep_dark": "2025-05-23 04:32:14 +0000",
-      "minecraft:meadow": "2025-05-24 04:59:14 +0000",
+      "minecraft:river": "2025-05-24 05:09:56 +0000",
       "minecraft:stony_shore": "2025-05-23 03:52:56 +0000",
       "minecraft:snowy_plains": "2025-05-23 03:52:38 +0000",
       "minecraft:dripstone_caves": "2025-05-23 04:49:53 +0000",
+      "minecraft:frozen_ocean": "2025-05-23 03:53:17 +0000",
+      "minecraft:frozen_river": "2025-05-23 03:56:04 +0000",
+      "minecraft:deep_dark": "2025-05-23 04:32:14 +0000",
+      "minecraft:meadow": "2025-05-24 04:59:14 +0000",
       "minecraft:plains": "2025-05-23 03:59:55 +0000"
     },
     "done": false
@@ -990,7 +992,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-23 04:19:21 +0000",
       "minecraft:spider": "2025-05-23 04:41:44 +0000",
-      "minecraft:zombie": "2025-05-23 04:38:15 +0000"
+      "minecraft:zombie": "2025-05-23 04:38:15 +0000",
+      "minecraft:drowned": "2025-05-24 05:17:24 +0000"
     },
     "done": false
   },
@@ -1846,6 +1849,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-24 05:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 05:17:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-05-24 04:06:14 +0000"
@@ -1855,6 +1870,36 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-05-24 04:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-24 05:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-24 05:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 05:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-05-24 05:11:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-05-24 05:10:53 +0000"
     },
     "done": true
   },
@@ -1870,15 +1915,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-24 05:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 05:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-05-24 05:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-05-24 03:57:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 05:17:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-05-24 04:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 05:17:25 +0000"
     },
     "done": true
   },
@@ -1891,6 +1966,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-05-24 04:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-24 05:10:56 +0000"
     },
     "done": true
   },
